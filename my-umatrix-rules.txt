@@ -61,7 +61,6 @@ speedof.me code.highcharts.com script allow
 speedtest.net b.cdnst.net script allow
 steampowered.com cdn.akamai.steamstatic.com other allow
 steampowered.com store.akamai.steamstatic.com script allow
-twitch.tv cdnjs.cloudflare.com script allow
 twitch.tv firebaseio.com frame allow
 twitch.tv firebaseio.com script allow
 twitch.tv jtvnw.net script allow
@@ -75,7 +74,6 @@ twitter.com amp.twimg.com xhr allow
 twitter.com mtc.cdn.vine.co other allow
 twitter.com mtc.cdn.vine.co xhr allow
 twitter.com pbs.twimg.com other allow
-twitter.com s.ytimg.com script allow
 twitter.com ton.twimg.com other allow
 twitter.com ton.twimg.com script allow
 twitter.com v.cdn.vine.co xhr allow
