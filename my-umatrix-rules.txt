@@ -36,7 +36,6 @@ bbc.com fig.bbc.co.uk script allow
 bbc.com mybbc.files.bbci.co.uk script allow
 bbc.com static.bbc.co.uk script allow
 bbc.com static.bbci.co.uk script allow
-birdguides.com birdguides.com script block
 dropbox.com dropboxstatic.com script allow
 ebay.com ir.ebaystatic.com script allow
 ebay.com vi.vipr.ebaydesc.com frame allow
